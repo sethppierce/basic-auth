@@ -11,7 +11,7 @@
 ### Links and Resources
 
 - [ci/cd](https://github.com/sethppierce/basic-auth/actions) (GitHub Actions)
-- [prod deployment](https://basic-api-server-dsob.onrender.com/) (when applicable)
+- [prod deployment](https://auth-9yk4.onrender.com) (when applicable)
 
 ### Setup
 
